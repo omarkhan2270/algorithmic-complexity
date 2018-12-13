@@ -1,0 +1,15 @@
+steps to splitting up a group of 30 people:
+
+1. Gather everybody
+2. Count the number of people
+3. Decide how many groups you want
+4. Divide the cohort by the amount of groups you want
+5. Boom, got your groups
+
+[if the total number of people is odd allow the last person to join any group]
+
+
+Finding Duplicates
+
+- Sort words alphabetically
+- Ensure no words are written more than oncea
